@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c6b4aecb3a4234eeed650f56dc32a197350085d
 The Muffin Man was always hungry, but no matter what he tried, the only thing that could fill him was muffins.
 Things were so bad that no one even bothered to learn or remember his true name, which was eventually lost to the choir of death ears which surrounded the man.
 When he became old and decrepit, the Muffin Man just called himself The Muffin Man out of sheer laziness
@@ -20,4 +24,7 @@ Red: Brittany Hernandez
 
 Blue/Part2: Christy Djuandi
 
+<<<<<<< HEAD
+=======
 Green/Part3: Asaf Ahmed
+>>>>>>> 7c6b4aecb3a4234eeed650f56dc32a197350085d
