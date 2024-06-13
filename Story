@@ -17,9 +17,13 @@ But before the Muffin Man could take a bite, his ghost-self spoke out again.
 "Ah yes, that is a good question, Muffin Man. What do you mean by alive?"
 
 
+<<<<<<< HEAD
 Red: Brittany Hernandez
+=======
+Red/Part1: [Put your name here]
+>>>>>>> dec1d171ff6dc99de0ebf04c0262a71bdb06cbf4
 
-Christy Djuandi
+Blue/Part2: Christy Djuandi
 
-Green: [Put your name here]
+Green/Part3: [Put your name here]
 
