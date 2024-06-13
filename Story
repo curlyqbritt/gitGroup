@@ -18,9 +18,9 @@ But before the Muffin Man could take a bite, his ghost-self spoke out again.
 "Ah yes, that is a good question, Muffin Man. What do you mean by alive?"
 
 
-Red: [Put your name here]
+Red/Part1: [Put your name here]
 
-Christy Djuandi
+Blue/Part2: Christy Djuandi
 
-Green: [Put your name here]
+Green/Part3: [Put your name here]
 
